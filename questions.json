@@ -1,201 +1,201 @@
 [
-     {
+  {
     "question": "Was kennzeichnet ein Polypol?",
     "options": {
-      "A": "ein geringes Maß an Wettbewerb",
-      "B": "ein hohes Maß an Wettbewerb",
-      "C": "ein Anbietender kann den Preis für ein Gut bestimmen",
-      "D": "die vollständige Abwesenheit von Nachfragenden"
+      "A": "Ein geringes Maß an Wettbewerb zwischen den Anbietern.",
+      "B": "Ein hohes Maß an Wettbewerb zwischen vielen Anbietern.",
+      "C": "Ein einzelner Anbieter kann den Preis für ein Gut allein bestimmen.",
+      "D": "Es sind keinerlei Nachfrager auf dem Markt vorhanden."
     },
     "correct": "B"
   },
   {
     "question": "In welchem Fall liegt ein bilaterales Oligopol vor?",
     "options": {
-      "A": "wenige Anbietende stehen vielen Nachfragenden gegenüber",
-      "B": "es gibt nur einen Anbietenden und einen Nachfragenden",
-      "C": "wenige Anbietende stehen wenigen Nachfragenden gegenüber",
-      "D": "viele Anbietende stehen vielen Nachfragenden gegenüber"
+      "A": "Wenige Anbieter stehen vielen Nachfragern gegenüber.",
+      "B": "Es gibt nur einen einzigen Anbieter und einen einzigen Nachfrager.",
+      "C": "Wenige Anbieter stehen wenigen Nachfragern gegenüber.",
+      "D": "Viele Anbieter stehen vielen Nachfragern gegenüber."
     },
     "correct": "C"
   },
   {
-    "question": "Zu welcher Marktform gehört das Beispiel Luxusautos?",
+    "question": "Welcher Marktform lässt sich der Markt für Luxusautos am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "bilaterales Oligopol",
-      "C": "beschränktes Angebotsmonopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele Anbieter miteinander konkurrieren.",
+      "B": "Angebotsoligopol, da wenige Hersteller den Markt dominieren.",
+      "C": "Beschränktes Angebotsmonopol, da ein Anbieter den Markt beherrscht.",
+      "D": "Angebotsmonopol, da nur ein einziger Anbieter existiert."
     },
     "correct": "B"
   },
   {
-    "question": "Was kennzeichnet einen vollkommenen Markt unter anderem?",
+    "question": "Was kennzeichnet einen vollkommenen Markt?",
     "options": {
-      "A": "Homogenität der Güter",
-      "B": "Preisunterschiede zwischen Herstellern",
-      "C": "keine Markttransparenz",
-      "D": "starke persönliche Präferenzen der Käufer"
+      "A": "Die angebotenen Güter sind homogen, also gleichartig und austauschbar.",
+      "B": "Es bestehen Preisunterschiede zwischen den einzelnen Herstellern.",
+      "C": "Auf dem Markt herrscht keine Markttransparenz für die Teilnehmer.",
+      "D": "Die Käufer haben ausgeprägte persönliche Präferenzen für bestimmte Anbieter."
     },
     "correct": "A"
   },
   {
-    "question": "Zu den Folgen einer Kartellbildung für Verbrauchende gehören:",
+    "question": "Welche Folge hat eine Kartellbildung typischerweise für die Verbraucher?",
     "options": {
-      "A": "Ankurbelung des Wettbewerbs",
-      "B": "steigende Produktqualität",
-      "C": "überhöhte Preise",
-      "D": "eine größere Produktauswahl"
+      "A": "Sie kurbelt den Wettbewerb zwischen den Anbietern an.",
+      "B": "Sie führt zu einer steigenden Qualität der angebotenen Produkte.",
+      "C": "Sie führt zu überhöhten Preisen, da der Wettbewerb ausgeschaltet wird.",
+      "D": "Sie sorgt für eine größere Produktauswahl für die Verbraucher."
     },
     "correct": "C"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Benzinmarkt Deutschlands?",
+    "question": "Welcher Marktform lässt sich der Benzinmarkt in Deutschland am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfrageoligopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele kleine Anbieter miteinander konkurrieren.",
+      "B": "Angebotsoligopol, da wenige große Mineralölkonzerne den Markt dominieren.",
+      "C": "Nachfrageoligopol, da wenige Großabnehmer die Nachfrage bestimmen.",
+      "D": "Angebotsmonopol, da ein einziger Anbieter den Markt beherrscht."
     },
     "correct": "B"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Aktienhandel an der Berliner Wertpapierbörse?",
+    "question": "Welcher Marktform lässt sich der Aktienhandel an der Berliner Wertpapierbörse am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfragemonopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele Anbieter und Nachfrager aufeinandertreffen.",
+      "B": "Angebotsoligopol, da wenige Anbieter den Handel dominieren.",
+      "C": "Nachfragemonopol, da nur ein einziger Nachfrager existiert.",
+      "D": "Angebotsmonopol, da nur ein einziger Anbieter existiert."
     },
     "correct": "A"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Trinkwasser liefert das Wasserwerk der Gemeinde?",
+    "question": "Welcher Marktform lässt sich die Trinkwasserversorgung durch das gemeindliche Wasserwerk am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Nachfrageoligopol",
-      "C": "Angebotsmonopol",
-      "D": "Nachfragemonopol"
+      "A": "Polypol, da viele Anbieter miteinander konkurrieren.",
+      "B": "Nachfrageoligopol, da wenige Abnehmer die Nachfrage bestimmen.",
+      "C": "Angebotsmonopol, da das Wasserwerk der einzige Anbieter ist.",
+      "D": "Nachfragemonopol, da nur ein einziger Nachfrager existiert."
     },
     "correct": "C"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Vielen Winzern eines Weinbaugebietes stehen wenige Kellereien gegenüber?",
+    "question": "Welcher Marktform lässt sich die Situation zuordnen, in der vielen Winzern eines Weinbaugebietes nur wenige Kellereien gegenüberstehen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfrageoligopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele Anbieter auf dem Markt tätig sind.",
+      "B": "Angebotsoligopol, da wenige Anbieter den Markt dominieren.",
+      "C": "Nachfrageoligopol, da wenige Kellereien als Nachfrager auftreten.",
+      "D": "Angebotsmonopol, da ein einziger Anbieter den Markt beherrscht."
     },
     "correct": "C"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: U-Boote und Kriegsschiffe werden innerhalb Deutschlands nur von der Deutschen Marine gekauft?",
+    "question": "Welcher Marktform lässt sich der Kauf von U-Booten und Kriegsschiffen in Deutschland zuordnen, wenn ausschließlich die Deutsche Marine als Käufer auftritt?",
     "options": {
-      "A": "Angebotsoligopol",
-      "B": "Angebotsmonopol",
-      "C": "Polypol",
-      "D": "Nachfragemonopol"
+      "A": "Angebotsoligopol, da wenige Hersteller den Markt dominieren.",
+      "B": "Angebotsmonopol, da nur ein einziger Hersteller existiert.",
+      "C": "Polypol, da viele Anbieter miteinander konkurrieren.",
+      "D": "Nachfragemonopol, da die Deutsche Marine der einzige Nachfrager ist."
     },
     "correct": "D"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Die patentierte Erfindung eines Unternehmers?",
+    "question": "Welcher Marktform lässt sich die patentierte Erfindung eines Unternehmens zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsmonopol",
-      "C": "Nachfrageoligopol",
-      "D": "Nachfragemonopol"
+      "A": "Polypol, da viele Anbieter miteinander konkurrieren.",
+      "B": "Angebotsmonopol, da das Unternehmen durch das Patent als einziger Anbieter auftritt.",
+      "C": "Nachfrageoligopol, da wenige Nachfrager die Nachfrage bestimmen.",
+      "D": "Nachfragemonopol, da nur ein einziger Nachfrager existiert."
     },
     "correct": "B"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Wochenmarkt in Ihrer Heimatstadt?",
+    "question": "Welcher Marktform lässt sich der Wochenmarkt in einer typischen deutschen Stadt am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Angebotsmonopol",
-      "D": "Nachfragemonopol"
+      "A": "Polypol, da viele Anbieter und Nachfrager aufeinandertreffen.",
+      "B": "Angebotsoligopol, da wenige Händler den Markt dominieren.",
+      "C": "Angebotsmonopol, da ein einziger Händler den Markt beherrscht.",
+      "D": "Nachfragemonopol, da nur ein einziger Nachfrager existiert."
     },
     "correct": "A"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Kaffeemarkt in Deutschland?",
+    "question": "Welcher Marktform lässt sich der Kaffeemarkt in Deutschland am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfrageoligopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele kleine Anbieter miteinander konkurrieren.",
+      "B": "Angebotsoligopol, da wenige große Röstereien den Markt dominieren.",
+      "C": "Nachfrageoligopol, da wenige Großabnehmer die Nachfrage bestimmen.",
+      "D": "Angebotsmonopol, da ein einziger Anbieter den Markt beherrscht."
     },
     "correct": "B"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Nur der Staat kauft Polizeiuniformen?",
+    "question": "Welcher Marktform lässt sich die Situation zuordnen, in der ausschließlich der Staat Polizeiuniformen kauft?",
     "options": {
-      "A": "Angebotsoligopol",
-      "B": "Angebotsmonopol",
-      "C": "Nachfragemonopol",
-      "D": "Polypol"
+      "A": "Angebotsoligopol, da wenige Hersteller den Markt dominieren.",
+      "B": "Angebotsmonopol, da nur ein einziger Hersteller existiert.",
+      "C": "Nachfragemonopol, da der Staat der einzige Nachfrager ist.",
+      "D": "Polypol, da viele Anbieter miteinander konkurrieren."
     },
     "correct": "C"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Brotkäufer können unter vielen Bäckereien wählen?",
+    "question": "Welcher Marktform lässt sich die Situation zuordnen, in der Brotk äufer unter vielen Bäckereien wählen können?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfrageoligopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele Anbieter und Nachfrager auf dem Markt aufeinandertreffen.",
+      "B": "Angebotsoligopol, da wenige Bäckereien den Markt dominieren.",
+      "C": "Nachfrageoligopol, da nur wenige Nachfrager auf dem Markt aktiv sind.",
+      "D": "Angebotsmonopol, da eine einzige Bäckerei den Markt beherrscht."
     },
     "correct": "A"
   },
   {
-    "question": "Auf welche Marktform wird durch das folgende Beispiel hingewiesen: Der Automarkt in Deutschland?",
+    "question": "Welcher Marktform lässt sich der Automobilmarkt in Deutschland am ehesten zuordnen?",
     "options": {
-      "A": "Polypol",
-      "B": "Angebotsoligopol",
-      "C": "Nachfrageoligopol",
-      "D": "Angebotsmonopol"
+      "A": "Polypol, da viele kleine Hersteller miteinander konkurrieren.",
+      "B": "Angebotsoligopol, da wenige große Hersteller den Markt dominieren.",
+      "C": "Nachfrageoligopol, da wenige Großabnehmer die Nachfrage bestimmen.",
+      "D": "Angebotsmonopol, da ein einziger Hersteller den Markt beherrscht."
     },
     "correct": "B"
   },
   {
     "question": "Was versteht man unter dem Begriff Prohibitivpreis?",
     "options": {
-      "A": "Der Preis, bei dem das Angebot am höchsten ist",
-      "B": "Der Preis, bei dem die Nachfrage vollständig zum Erliegen kommt",
-      "C": "Der ideale Gleichgewichtspreis im Polypol",
-      "D": "Der Mindestpreis, den ein Monopolist festlegt"
+      "A": "Der Preis, bei dem das Angebot auf dem Markt am höchsten ist.",
+      "B": "Der Preis, bei dem die Nachfrage vollständig zum Erliegen kommt, weil er zu hoch ist.",
+      "C": "Der ideale Gleichgewichtspreis im Polypol.",
+      "D": "Der Mindestpreis, den ein Monopolist gesetzlich festlegen muss."
     },
     "correct": "B"
   },
   {
     "question": "Welches Merkmal ist typisch für ein Monopol?",
     "options": {
-      "A": "Die Preisbildung erfolgt rein durch das freie Zusammenspiel von Angebot und Nachfrage",
-      "B": "Es gibt viele Anbieter und nur wenige Nachfrager",
-      "C": "Die Preisbildung wird allein vom Monopolisten bestimmt",
-      "D": "Der Marktzugang ist für neue Wettbewerber vollkommen offen"
+      "A": "Die Preisbildung erfolgt ausschließlich durch das freie Zusammenspiel von Angebot und Nachfrage.",
+      "B": "Es gibt viele Anbieter und nur wenige Nachfrager auf dem Markt.",
+      "C": "Der Monopolist bestimmt den Preis allein, da er keinem Wettbewerb ausgesetzt ist.",
+      "D": "Der Marktzugang ist für neue Wettbewerber vollkommen offen."
     },
     "correct": "C"
   },
   {
-    "question": "Wie ist ein Angebotsoligopol auf der Marktseite strukturiert?",
+    "question": "Wie ist ein Angebotsoligopol strukturiert?",
     "options": {
-      "A": "Ein Anbieter steht einem einzigen Nachfrager gegenüber",
-      "B": "Wenige Anbieter stehen vielen Nachfragenden gegenüber",
-      "C": "Viele Anbieter stehen wenigen Nachfragenden gegenüber",
-      "D": "Viele Anbieter stehen vielen Nachfragenden gegenüber"
+      "A": "Ein einziger Anbieter steht einem einzigen Nachfrager gegenüber.",
+      "B": "Wenige Anbieter stehen vielen Nachfragern gegenüber.",
+      "C": "Viele Anbieter stehen wenigen Nachfragern gegenüber.",
+      "D": "Viele Anbieter stehen vielen Nachfragern gegenüber."
     },
     "correct": "B"
   },
   {
     "question": "Was kennzeichnet den Marktzugang in einem Polypol?",
     "options": {
-      "A": "Der Marktzugang ist offen",
-      "B": "Der Marktzugang ist geschlossen",
-      "C": "Der Marktzugang ist stark eingeschränkt",
-      "D": "Der Marktzugang ist extrem erschwert"
+      "A": "Der Marktzugang ist für alle Anbieter offen und frei zugänglich.",
+      "B": "Der Marktzugang ist vollständig geschlossen und reguliert.",
+      "C": "Der Marktzugang ist stark eingeschränkt und nur für wenige möglich.",
+      "D": "Der Marktzugang ist durch hohe Eintrittsbarrieren extrem erschwert."
     },
     "correct": "A"
   }
